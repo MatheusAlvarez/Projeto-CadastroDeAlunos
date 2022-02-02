@@ -22,7 +22,7 @@ Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 - Utilizar bootstrap 5 ou qualquer outra biblioteca css
 
 ## Gerenciamento do projeto:
- - Trello/Jira ...
+ - Trello
 
 
 ## Entregáveis:
