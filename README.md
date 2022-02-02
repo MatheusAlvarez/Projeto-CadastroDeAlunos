@@ -22,7 +22,8 @@ Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 - Utilizar bootstrap 5 ou qualquer outra biblioteca css
 
 ## Gerenciamento do projeto:
- - Trello
+- Trello
+![Trello](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/Trello.png)
 
 ## Prazo:
 (08/02) Terça-feira<br>
