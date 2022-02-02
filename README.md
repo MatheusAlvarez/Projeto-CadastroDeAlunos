@@ -24,12 +24,6 @@ Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 ## Gerenciamento do projeto:
  - Trello
 
-
-## Entregáveis:
--	Wireframe da página em formato de arquivo digital
--	Arquivos que sustentam o projeto (.html/.css/.js)
--	Link repositório -> github pages
-
 ## Prazo:
 (08/02) Terça-feira<br>
 Tempo de projeto 5h30
