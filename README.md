@@ -23,7 +23,6 @@ Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 
 ## Gerenciamento do projeto:
 - Trello
-![Trello](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/Trello.png)
 
 ## Prazo:
 (08/02) Terça-feira<br>
