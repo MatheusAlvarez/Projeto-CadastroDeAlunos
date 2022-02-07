@@ -8,6 +8,16 @@ Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 ## Objetivo:
  Realizar uma plataforma de inserção de notas do semestre de um grupo de alunos:
 
+## Layout do projeto
+![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/web.png)
+
+## Gerenciamento do projeto:
+- Trello
+
+## Prazo:
+(08/02) Terça-feira<br>
+Tempo de projeto 5h30
+
 ## Requisitos:
 - Campo para indicação dos nomes (min: 1 max: 10)
 - Campo para nota (min: 1 max: 6)
@@ -20,16 +30,6 @@ Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 - Botão para organizar médias em ordem crescente e/ou decrescente
 - Botão para organizar nomes em ordem alfabética
 - Utilizar bootstrap 5 ou qualquer outra biblioteca css
-
-## Layout do projeto
-![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/web.png)
-
-## Gerenciamento do projeto:
-- Trello
-
-## Prazo:
-(08/02) Terça-feira<br>
-Tempo de projeto 5h30
 
 ## Squad
   [Matheus Alvarez](https://github.com/MatheusAlvarez "GitHub do Matheus") - Tech lead <br>
