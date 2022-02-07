@@ -21,6 +21,9 @@ Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 - Botão para organizar nomes em ordem alfabética
 - Utilizar bootstrap 5 ou qualquer outra biblioteca css
 
+## Layout do projeto
+![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/web.png)
+
 ## Gerenciamento do projeto:
 - Trello
 
