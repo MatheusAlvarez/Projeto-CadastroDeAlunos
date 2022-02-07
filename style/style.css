@@ -1,0 +1,49 @@
+.opcoes{
+    margin: auto;
+    width: 30vw;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+ul li{
+    float: left;
+    background-color: rgb(110, 115, 129);
+    color: #fff;
+    width: 120px;
+    height: 40px;
+    opacity: 0.9;
+    line-height: 40px;
+    text-align: center;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+ul li a{
+    text-decoration: none;
+    color:  white;
+    display: block;
+}
+
+.back:hover{
+    background-color: rgb(78, 82, 95);
+}
+
+ul li ul li{
+    display: none;
+}
+
+ul li:hover ul li{
+    display: block;
+    cursor: pointer;
+}
+
+span{
+    display: block;
+    background-color: rgb(191, 191, 192);
+    width: 25.6vw;
+}

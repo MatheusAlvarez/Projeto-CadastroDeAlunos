@@ -1,0 +1,40 @@
+Projeto squad:
+	Cadastro notas
+
+Objetivo:
+ 	Realizar uma plataforma de inserção de notas do semestre de um grupo de alunos:
+
+Requisitos:
+	[] Campo para indicação dos nomes (min: 1 max: 10)
+	[] Campo para nota (min: 1 max: 6)
+	[] Campo para situação
+	[] Coluna para média final individual
+	[] Campo para média geral
+	[] Botão para calcular médias
+	[] Botão para ampliar colunas (notas)
+	[] Botão para ampliar linhas (alunos)
+	[] Botão para organizar médias em ordem crescente e/ou decrescente
+	[] Botão para organizar nomes em ordem alfabética
+	[] Utilizar bootstrap 5 ou qualquer outra biblioteca css
+
+Gerenciamento do projeto:
+	Trello/Jira ...
+
+
+Entregáveis:
+	[] Wireframe da página em formato de arquivo digital
+	[] Arquivos que sustentam o projeto (.html/.css/.js)
+	[] Link repositório -> github pages
+
+*Subir no teams no canal PWBE>Alunos>0 Grupos>(Pasta com o nome do grupo)	
+
+Integrantes:
+	Grupos PWFE
+
+Prazo:
+	(08/02) Terça-feira
+	Tempo de projeto 5h30
+
+Referência:
+	https://www.youtube.com/watch?v=oGEYs52ZuHY&ab_channel=FernandoLeonid
+
