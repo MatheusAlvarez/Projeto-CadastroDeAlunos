@@ -1,4 +1,4 @@
-# Projeto Squad
+# Projeto-CadastroDeAlunos
 
 Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 
