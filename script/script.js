@@ -99,14 +99,13 @@ function adicionar_nota(){
 
 // Função apagar aluno
 function apagar_aluno(){
-    if(qtdAluno+1 > 1){
+    if(qtdAluno >= 1){
     document.getElementById("table").deleteRow(qtdAluno);
     qtdAluno = qtdAluno - 1
     }
     else{
         alert("Não tem mais alunos para apagar")
     }
-    qtdAluno = qtdAluno - 1
 }
 
 // Função para apagar nota
@@ -114,28 +113,29 @@ function apagar_nota(){
     let linhas = qtdAluno
     var myTable = document.getElementById("table")
     if (qtdAluno == 0){
-        if (cellsNumber-3 > 1){
-            document.getElementById("title").deleteCell(cellsNumber - 3);
-            cellsNumber = cellsNumber - 1
-        }
-        else{
-            alert("Sem notas para apagar")
-        }
+    if (cellsNumber-3 > 1){
+    document.getElementById("title").deleteCell(cellsNumber - 3);
+    cellsNumber = cellsNumber - 1
     }
     else{
+        alert("Sem notas para apagar")
+    }
+}
+    else{
         if(cellsNumber-3>1){
-            document.getElementById("title").deleteCell(cellsNumber - 3);
-            while(linhas > 0){
-                myTable.rows[linhas].deleteCell(cellsNumber-3); 
-                linhas = linhas - 1
-            }
-            cellsNumber = cellsNumber - 1 
+         document.getElementById("title").deleteCell(cellsNumber - 3);
+        while(linhas > 0){
+          myTable.rows[linhas].deleteCell(cellsNumber-3); 
+        linhas = linhas - 1
         }
+        cellsNumber = cellsNumber - 1 
+    }
     
         else{
         alert("Sem notas para apagar")
         }
-    }
+}
+
 }
 
 // Função para ordem crescente
