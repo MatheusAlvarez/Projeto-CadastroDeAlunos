@@ -13,6 +13,19 @@ https://matheusalvarez.github.io/Projeto-CadastroDeAlunos/
 ## Layout do projeto
 ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/web.png)
 
+### botão adicionar aluno
+![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addAluno.png)
+
+### botão adicionar nota
+![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addNota.png)
+
+### botão remover aluno
+![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-rmvAluno.png)
+
+### botão remover nota
+![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-rmvNota.png)
+
+
 ## Gerenciamento do projeto:
 - Trello
 
