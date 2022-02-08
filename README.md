@@ -29,6 +29,12 @@ https://matheusalvarez.github.io/Projeto-CadastroDeAlunos/
 ## Gerenciamento do projeto:
 - Trello
 
+
+## Tecnologias utilizadas
+- HTML
+- CSS
+- JavaScript
+
 ## Prazo:
 (08/02) Terça-feira<br>
 Tempo de projeto 5h30
