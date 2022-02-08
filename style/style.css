@@ -1,6 +1,14 @@
 .opcoes{
-    margin: auto;
-    width: 30vw;
+    margin: auto;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.input{
+    font-size: 12px;
 }
 
 ul{
@@ -14,12 +22,12 @@ ul li{
     float: left;
     background-color: rgb(110, 115, 129);
     color: #fff;
-    width: 120px;
+    width: 180px;
     height: 40px;
     opacity: 0.9;
     line-height: 40px;
     text-align: center;
-    font-size: 1em;
+    font-size: 18px;
     cursor: pointer;
 }
 
@@ -45,5 +53,61 @@ ul li:hover ul li{
 span{
     display: block;
     background-color: rgb(191, 191, 192);
-    width: 25.6vw;
+    width: 26vw;
+    margin-top: 10px;
+}
+
+@media (max-width: 1599px) {
+    ul li{
+        float: left;
+        width: 80px;
+        font-size: 11px;
+    }
+    span{
+        display: block;
+        background-color: rgb(191, 191, 192);
+        width: 20vw;
+    }
+}
+
+@media (max-width: 399px) {
+    ul li{
+        float: left;
+        width: 77px;
+        font-size: 11px;
+    }
+    span{
+        display: block;
+        background-color: rgb(191, 191, 192);
+        width: 45vw;
+    }
+}
+
+@media (max-width: 384px) {
+    ul li{
+        float: left;
+        width: 75px;
+        font-size: 11px;
+    }
+    span{
+        display: block;
+        background-color: rgb(191, 191, 192);
+        width: 60vw;
+    }
+}
+
+@media (max-width: 360px) {
+    ul li{
+        float: left;
+        width: 70px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 349px) {
+    ul li{
+        float: left;
+        width: 65px;
+        font-size: 10px;
+    }
 }
