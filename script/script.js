@@ -187,25 +187,6 @@ function imprimirArray(id, array) {
 
 
 function ordemAlfabetica(){
-    const result = array_alunos.sort((a,b)=>{
-        if( b.nome > a.nome){
-            return -1
-        }
-        else{
-            return true
-        }    
-    });
-    console.log(result)
-    //  caminhos:
-    const caminho_alunos = document.querySelectorAll('.alunos');
-    caminho_alunos.forEach((tag,index)=>{tag.value = result[index].nome;})
-    const guia_notas = result[0].notas_brutas.length;
-    for(let i = 0; i < array_alunos.length; i++){
-        const caminho_notasX = document.querySelectorAll(`.notas${i+1}`);
-        caminho_notasX.forEach((tag,index)=>{
-            tag.value = result[i].notas_brutas[index];
-        })
-        res_na_tela(i,result);
-    };
+    alert("Não foi possível colocar em ordem alfabética")
 }
 
