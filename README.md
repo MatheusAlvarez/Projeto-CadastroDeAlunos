@@ -24,6 +24,9 @@ https://matheusalvarez.github.io/Projeto-CadastroDeAlunos/
 
    ### botão remover nota
    ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-apagarNota.PNG) 
+   
+   ### botão média
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-media.PNG) 
 
 
 ## Gerenciamento do projeto:
