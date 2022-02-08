@@ -5,6 +5,7 @@ let x = 5
 let nomeAluno = "";
 let nomes = [];
 let mediaList = [];
+let mediaGeral = 0;
 
 var table = document.getElementById("table");
 
@@ -14,6 +15,7 @@ let cellsNumber = 7;
 function verificaMedias(){
     nomes = []
     mediaList = []
+    mediaGeral = 0
     for(let y = 1; y <= qtdAluno; y = y + 1){
         let resultado = 0
         for(let x = 1; x <= (cellsNumber - 3); x = x + 1){
@@ -35,6 +37,8 @@ function verificaMedias(){
             document.getElementById(`situacao${y}`).style.color = "red"
         }
 
+        mediaGeral += media;
+
         nomeAluno = document.getElementById(`aluno${y}`).value;
         mediaAluno = document.getElementById(`media${y}`).value;
 
@@ -43,15 +47,20 @@ function verificaMedias(){
     }
 }
 
+
+function media_Geral(){
+    console.log(mediaGeral/qtdAluno)
+}
+
 // Função para adicionar Aluno
 function adicionar_aluno(){ 
     if(qtdAluno < 10){
     var table = document.getElementById("table");
     let x = 1;
     var row = table.insertRow(1);
-    row.insertCell(0).innerHTML = `<input id = "aluno${y}" type="text" class = "form-control" placeholder="Nome"> `;
+    row.insertCell(0).innerHTML = `<input id = "aluno${y}" type="text" class = "form-control input" placeholder="Nome"> `;
     for(x; x < cellsNumber - 2; x++){
-        row.insertCell(x).innerHTML  = `<input id = "nota${y}${x}" type="text" class = "form-control" placeholder="Nota ${x}"> `;
+        row.insertCell(x).innerHTML  = `<input id = "nota${y}${x}" type="text" class = "form-control input" placeholder="Nota ${x}"> `;
     }
     row.insertCell(x).innerHTML = `<output id = "media${y}"></output> `;
     row.insertCell(x+1).innerHTML = `<output id = "situacao${y}"></output> `;
@@ -181,7 +190,7 @@ function imprimirArray(id, array) {
     let span = document.getElementById(id);
     span.innerHTML = '';
     for (let i = 0; i < array.length; i++) {
-        span.innerHTML += array[i].nome + ', Média: ' + array[i].media + '<br/>';
+        span.innerHTML += '<b> Aluno: </b>' + array[i].nome + '<br><b> Média: </b>' + array[i].media + '<br/><br>';
     }
 }
 
