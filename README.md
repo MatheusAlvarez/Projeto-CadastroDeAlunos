@@ -7,20 +7,23 @@ https://matheusalvarez.github.io/Projeto-CadastroDeAlunos/
 ## Objetivo:
  Realizar uma plataforma de inserção de notas do semestre de um grupo de alunos:
 
-## Layout do projeto
-![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/web.png)
+## Wireframe
+- Figma
 
-### botão adicionar aluno
-![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addAluno.png)
+   ### Layout do projeto
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/web.png)
 
-### botão adicionar nota
-![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addNota.png)
+   ### botão adicionar aluno
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addAluno.png)
 
-### botão remover aluno
-![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-rmvAluno.png)
+   ### botão adicionar nota
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addNota.png)
 
-### botão remover nota
-![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-rmvNota.png)
+   ### botão remover aluno
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-rmvAluno.png)
+
+   ### botão remover nota
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-rmvNota.png)
 
 
 ## Gerenciamento do projeto:
@@ -32,7 +35,7 @@ https://matheusalvarez.github.io/Projeto-CadastroDeAlunos/
 - CSS
 - JavaScript
 
-## Squad
+## Squad - Innovation Skyline
   [Matheus Alvarez](https://github.com/MatheusAlvarez "GitHub do Matheus") - Tech lead <br>
   [Rafaela Mascarenhas](https://github.com/RafaelaMascarenhas "GitHub da Rafaela")<br>
   [Thiago Messias](https://github.com/Thmsantos "GitHub do Thiago")<br>
