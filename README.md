@@ -11,19 +11,19 @@ https://matheusalvarez.github.io/Projeto-CadastroDeAlunos/
 - Figma
 
    ### Layout do projeto
-   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/web.png)
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/principal.PNG)
 
     ### botão adicionar aluno
-   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addAluno.png)
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addAluno.PNG)
 
    ### botão adicionar nota
-   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addNota.png)
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-addNota.PNG)
 
    ### botão remover aluno
-   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-rmvAluno.png)
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-apagarAluno.PNG)
 
    ### botão remover nota
-   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-rmvNota.png) 
+   ![WEB](https://github.com/MatheusAlvarez/Projeto-CadastroDeAlunos/blob/main/_assets/btn-apagarNota.PNG) 
 
 
 ## Gerenciamento do projeto:
