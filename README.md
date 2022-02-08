@@ -2,6 +2,8 @@
 
 Primeiro projeto desenvolvido em Squad através do curso técnico<br>
 
+https://matheusalvarez.github.io/Projeto-CadastroDeAlunos/
+
 ## Estado do projeto:
 - Em desenvolvimento
 
