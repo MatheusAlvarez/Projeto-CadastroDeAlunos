@@ -198,4 +198,3 @@ function imprimirArray(id, array) {
 function ordemAlfabetica(){
     alert("Não foi possível colocar em ordem alfabética")
 }
-
