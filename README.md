@@ -32,7 +32,6 @@ https://matheusalvarez.github.io/Projeto-CadastroDeAlunos/
 ## Gerenciamento do projeto:
 - Trello
 
-
 ## Tecnologias utilizadas
 - HTML
 - CSS
