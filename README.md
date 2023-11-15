@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧  God-Of-War ♻️ Concluído 🚀 🚧
+	🚧  Projeto-CadastroDeAlunos ♻️ Concluído 🚀 🚧
 </h4>
 
 <p align="center">
